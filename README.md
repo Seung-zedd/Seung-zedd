@@ -16,6 +16,7 @@
   <br>
   <div align=center><h1>🖥️Status</h1></div>
   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Seung-zedd)](https://github.com/ryo-ma/github-profile-trophy)
   ![Seung-zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-zedd&show_icons=true&theme=gruvbox)
   
   <div align=center><h1>📊Language Statistics</h1></div>
