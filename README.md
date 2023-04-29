@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <br>
+  <div align=center><h1>🖥️상태창</h1></div>
   
-  ![Seung-zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
+  ![Seung-zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-zedd&show_icons=true&theme=dark)
   
   
