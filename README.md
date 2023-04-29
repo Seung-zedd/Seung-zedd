@@ -14,6 +14,9 @@
   ![Seung-zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-zedd&show_icons=true&theme=gruvbox)
   
   <div align=left><h1>📊Language Statistics</h1></div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-zedd&layout=compact&theme=tokyonight)
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-zedd&layout=compact&theme=gruvbox)
   
+  <div align=left><h1>⚙️PS Ranking</h1></div>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=csj0209)](https://solved.ac/csj0209)
