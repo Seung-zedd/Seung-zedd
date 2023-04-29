@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Seung-zedd
-- 👀 I’m interested in health/fitness and K-drama
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on project requiring graduation
-- 📫 If you want to contact me, just send me by e-mail or add my account :)
 
-<!---
-Seung-zedd/Seung-zedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align=center>
+- Main Language: 
+  <img src="https://img.shields.io/badge/java-05A800?style=plastic&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-8500E5?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <br>
