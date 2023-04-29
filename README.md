@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <br>
   
-  
+  ![Seung-zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
   
   
