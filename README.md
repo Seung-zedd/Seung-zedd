@@ -12,12 +12,13 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
   
   <br>
 
   **Language learned:**
   <img src="https://img.shields.io/badge/c++-8500E5?style=plastic&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
   
