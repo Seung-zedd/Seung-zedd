@@ -5,12 +5,14 @@
 
   <div align=center>
   <h1>🤖 STACKS</h1>
-  </div>
+  
   
   **Currently learning Language:**
   <img src="https://img.shields.io/badge/java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+  
   <br>
 
   **Language learned:**
@@ -28,6 +30,7 @@
   
   <div align=center><h1>📊Language Statistics</h1></div>
   
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-zedd&layout=compact&theme=gruvbox)
   
   <div align=center><h1>⚙️PS Ranking</h1></div>
@@ -39,4 +42,5 @@
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&link=https://www.instagram.com/seung_j.95/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+  </div>
   
