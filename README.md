@@ -8,8 +8,7 @@
   
   
   **Currently learning Language:**
-  
-   <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
