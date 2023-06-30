@@ -8,7 +8,6 @@
   
   
   **Currently learning Language:**
-  
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
