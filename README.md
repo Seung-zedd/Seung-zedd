@@ -48,4 +48,25 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
   </div>
+
+  <div align=center><h1>⚖Message Convention for gitHub</h1></div>
+  <ul>
+    <li>feat : 새로운 기능에 대한 커밋</li>
+    <li>fix : 버그 수정에 대한 커밋</li>
+    <li>build : 빌드 관련 파일 수정에 대한 커밋</li>
+    <li>chore : 그 외 자잘한 수정에 대한 커밋</li>
+    <li>ci : CI관련 설정 수정에 대한 커밋</li>
+    <li>docs : 문서 수정에 대한 커밋</li>
+    <li>style : 코드 스타일 혹은 포맷 등에 관한 커밋</li>
+    <li>test : 테스트 코드 수정에 대한 커밋</li>
+</ul>
+
+
+
+
+
+
+
+
+
   
