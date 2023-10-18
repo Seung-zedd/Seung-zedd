@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white">
+  
   
   
   <br>
@@ -43,7 +47,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=csj0209)](https://solved.ac/csj0209)
   
   <div align=center><h1>🌐Social media</h1></div>
-  <a href="https://www.instagram.com/seung_j.95/">
+  <a href="https://www.instagram.com/muldiv_j/">
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&link=https://www.instagram.com/seung_j.95/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
