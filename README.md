@@ -41,10 +41,12 @@
   
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-zedd&layout=compact&theme=gruvbox)
-  
+
+  <!-- 알고리즘 랭킹
   <div align=center><h1>⚙️PS Ranking</h1></div>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=csj0209)](https://solved.ac/csj0209)
+  -->
   
   <div align=center><h1>🌐Social media</h1></div>
   <a href="https://www.instagram.com/muldiv_j/">
