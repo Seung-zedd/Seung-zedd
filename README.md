@@ -53,6 +53,10 @@
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&link=https://www.instagram.com/seung_j.95/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://velog.io/@csj0209/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&link=https://velog.io/@csj0209/posts&logoColor=white"
+  style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   </div>
 
   <div align=center><h1>⚖Message Convention for gitHub</h1></div>
