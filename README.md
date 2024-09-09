@@ -5,29 +5,26 @@
 
   <div align=center>
   <h1>🤖 STACKS</h1>
-  
-  
-  **Currently learning Language:**
+
+  **Primarily used:**
+  <img src="https://img.shields.io/badge/java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
-  
-  
-  
-  
-  <br>
-
-  **Language learned:**
-   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+  
+  **Once used:**
+  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-8500E5?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-8500E5?style=plastic&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+
+  **Currently learning/Exploring:**
+  <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
+  
   
   
   
