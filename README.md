@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+  
   
   **Once used:**
   <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
@@ -26,6 +25,12 @@
 
   **Currently learning/Exploring:**
   <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
+
+  **🛠Tools:**
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visualstudiocode&logoColor=white)
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
 
   <br>
   <div align=center><h1>👨‍🎓Education</h1></div>
