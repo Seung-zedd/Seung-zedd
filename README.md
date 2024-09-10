@@ -24,9 +24,17 @@
 
   **Currently learning/Exploring:**
   <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
-  
-  
-  
+
+  <br>
+  <div align=center><h1>👨‍🎓Education</h1></div>
+  <div align=left>Hong-ik University (2022.03 ~ 2024.08)</div><br>
+  <div align=left>Hansung University (2016.03 ~ 2021.08)</div>
+
+  <br>
+  <div align=center><h1>📜Certificate</h1></div>
+  <div align=left>OPIc IH (achieved at 2024/06/19)</div><br>
+  <div align=left>Engineer Information Processing (achieved at 2024/09/10)</div>
+
   
   <br>
   <div align=center><h1>🖥️Status</h1></div>
