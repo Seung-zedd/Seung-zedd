@@ -9,23 +9,29 @@
   <h1>🤖 STACKS</h1>
 
   **Primarily used:**
-  <img src="https://img.shields.io/badge/java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=plastic&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic&logo=mysql&logoColor=white">
   
   
   **Once used:**
-  <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-8500E5?style=plastic&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=plastic&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-8500E5?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
 
   **Currently learning/Exploring:**
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
+  <!-- 도커 아이콘
   <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
-
+  -->
+  
+  
+  
   **🛠Tools:**
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visualstudiocode&logoColor=white)
