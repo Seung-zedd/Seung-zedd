@@ -79,7 +79,7 @@
   -->
   
   <div align=center><h1>🌐Social media</h1></div>
-  <a href="https://www.instagram.com/muldiv_j/">
+  <a href="https://www.instagram.com/icarus_mj/">
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&link=https://www.instagram.com/seung_j.95/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
