@@ -62,7 +62,7 @@
 
   <br>
   <div align=center><h1>💼Work Experience</h1></div>
-  <div align=left>(주)그노티 ERP 프로그램 개발 (worked as an Intern from 2024/10/01 ~ 2024/11/29)</div><br>
+  <div align=left>(주)그노티 ERP 프로그램 개발 (worked as an Intern from 2024/10/01 ~ 2024/11/19)</div><br>
 
   
   <br>
