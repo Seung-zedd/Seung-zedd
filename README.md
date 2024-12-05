@@ -60,6 +60,10 @@
   <div align=left>OPIc IH in English (achieved at 2024/06/19)</div><br>
   <div align=left>Engineer Information Processing (achieved at 2024/09/10)</div>
 
+  <br>
+  <div align=center><h1>💼Work Experience</h1></div>
+  <div align=left>(주)그노티 ERP 프로그램 개발 (worked as an Intern from 2024/10/01 ~ 2024/11/29)</div><br>
+
   
   <br>
   <div align=center><h1>🖥️Status</h1></div>
