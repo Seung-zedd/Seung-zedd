@@ -57,8 +57,9 @@
 
   <br>
   <div align=center><h1>📜Certificate</h1></div>
-  <div align=left>OPIc IH in English (achieved at 2024/06/19)</div><br>
-  <div align=left>Engineer Information Processing (achieved at 2024/09/10)</div>
+  <div align=left>Engineer Information Processing (achieved at 2024/09/10)</div><br>
+  <div align=left>OPIc IH in English (achieved at 2024/06/19)</div>
+  
 
   <br>
   <div align=center><h1>💼Work Experience</h1></div>
