@@ -15,10 +15,13 @@
 />
 </a>
 
+<div align=center><h1>📝Today I Learned</h1></div>
+https://velog-readme-stats.vercel.app/api/redirect?name=csj0209
 
+<br>
 
   <div align=center>
-  <h1>🤖 STACKS</h1>
+  <h1>🤖STACKS</h1>
 
   **Primarily used:**
   <img src="https://img.shields.io/badge/Java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
