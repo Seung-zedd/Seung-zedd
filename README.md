@@ -15,10 +15,9 @@
 />
 </a>
 
+<!-- TIL h1
 <div align=center><h1>📝Today I Learned</h1></div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209)](https://github.com/Seung-zedd/velog-readme-stats)
-https://velog-readme-stats.vercel.app/api/redirect?name=csj0209
-
+-->
 <br>
 
   <div align=center>
