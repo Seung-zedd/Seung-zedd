@@ -17,7 +17,7 @@
 <br>
 <div><h1>📝Today I Learned</h1></div>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209)](https://velog-readme-stats.vercel.app/api/redirect?name=csj0209)
 
 
   <div><h1>🤖STACKS</h1>
