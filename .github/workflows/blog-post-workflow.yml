@@ -17,18 +17,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/csj0209"
-      - name: Remove square brackets only in blog post list section
-        run: |
-          awk '
-            /<!-- BLOG-POST-LIST START -->/ {flag=1}
-            /<!-- BLOG-POST-LIST END -->/ {flag=0}
-            { if (flag) { gsub(/\[/, "", $0); gsub(/\]/, "", $0); } print }
-            ' README.md > temp.md && mv temp.md README.md
-
-      - name: Commit changes
-        run: |
-          git config --global user.name 'seung-je'
-          git config --global user.email 'csz0209@gmail.com'
-          git add README.md
-          git commit -m "Remove square brackets from blog post titles" || echo "No changes to commit"
-          git push
