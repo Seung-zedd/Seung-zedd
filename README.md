@@ -17,9 +17,8 @@
 <br>
 <div><h1>📝Today I Learned</h1></div>
 
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209" target="_blank">
-  <img src="https://velog-readme-stats.vercel.app/api?name=csj0209" alt="Velog's GitHub stats" />
-</a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209)](https://velog-readme-stats.vercel.app/api/redirect?name=csj0209)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209&tag=programmers)](https://velog-readme-stats.vercel.app/api/redirect?name=csj0209&tag=programmers)
 
 
   <div><h1>🤖STACKS</h1>
