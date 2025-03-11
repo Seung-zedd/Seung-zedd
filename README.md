@@ -17,6 +17,11 @@
 
 <div align=center><h1>📝Today I Learned</h1></div>
 <!-- BLOG-POST-LIST:START -->
+- [📘함수형 인터페이스&lpar;후반전&rpar;](https://velog.io/@csj0209/%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%9B%84%EB%B0%98%EC%A0%84)
+- [[Programmers_lv0]겹치는 선분의 길이](https://velog.io/@csj0209/Programmerslv0%EA%B2%B9%EC%B9%98%EB%8A%94-%EC%84%A0%EB%B6%84%EC%9D%98-%EA%B8%B8%EC%9D%B4)
+- [📘함수형 인터페이스&lpar;전반전&rpar;](https://velog.io/@csj0209/%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%A0%84%EB%B0%98%EC%A0%84-mui7cane)
+- [📘람다식&lpar;Anonymous function&rpar;](https://velog.io/@csj0209/%EB%9E%8C%EB%8B%A4%EC%8B%9DAnonymous-function)
+- [[Programmers_lv0]평행](https://velog.io/@csj0209/Programmerslv0%ED%8F%89%ED%96%89)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
