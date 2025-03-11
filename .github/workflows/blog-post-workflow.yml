@@ -17,10 +17,13 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/csj0209"
-      - name: Remove square brackets from blog post titles
+      - name: Remove square brackets only in blog post list section
         run: |
-          # README.md 파일에서 모든 [ 와 ] 를 제거합니다.
-          sed -i 's/\[//g; s/\]//g' README.md
+          awk '
+            /<!-- BLOG-POST-LIST START -->/ {flag=1}
+            /<!-- BLOG-POST-LIST END -->/ {flag=0}
+            { if (flag) { gsub(/\[/, "", $0); gsub(/\]/, "", $0); } print }
+            ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit changes
         run: |
