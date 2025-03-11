@@ -16,6 +16,7 @@
 </a>
 
 <div align=center><h1>📝Today I Learned</h1></div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209&cache_bust=1)](https://github.com/eungyeole/velog-readme-stats)
 
 <br>
 
