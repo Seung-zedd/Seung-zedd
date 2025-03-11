@@ -16,8 +16,10 @@
 </a>
 <br>
 <div><h1>📝Today I Learned</h1></div>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209)](https://velog-readme-stats.vercel.app/api/redirect?name=csj0209)
+
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209" target="_blank">
+  <img src="https://velog-readme-stats.vercel.app/api?name=csj0209" alt="Velog's GitHub stats" />
+</a>
 
 
   <div><h1>🤖STACKS</h1>
