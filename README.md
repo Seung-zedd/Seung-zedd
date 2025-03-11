@@ -14,15 +14,13 @@
   height="300"
 />
 </a>
-
-<div align=center><h1>📝Today I Learned</h1></div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209&cache_bust=2)](https://github.com/eungyeole/velog-readme-stats)
-
-
 <br>
+<div><h1>📝Today I Learned</h1></div>
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=csj0209)](https://github.com/eungyeole/velog-readme-stats)
 
-  <div align=center>
-  <h1>🤖STACKS</h1>
+
+  <div><h1>🤖STACKS</h1>
 
   **Primarily used:**
   <img src="https://img.shields.io/badge/Java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
@@ -55,28 +53,28 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
 
   <br>
-  <div align=center><h1>👨‍🎓Education</h1></div>
+  <div><h1>👨‍🎓Education</h1></div>
   <div align=left>Hong-ik University (2022.03 ~ 2024.08)</div><br>
   <div align=left>Hansung University (2016.03 ~ 2021.08)</div>
 
   <br>
-  <div align=center><h1>📜Certificate</h1></div>
+  <div><h1>📜Certificate</h1></div>
   <div align=left>Engineer Information Processing (achieved at 2024/09/10)</div><br>
   <div align=left>OPIc IH in English (achieved at 2024/06/19)</div>
   
 
   <br>
-  <div align=center><h1>💼Work Experience</h1></div>
+  <div><h1>💼Work Experience</h1></div>
   <div align=left>(주)그노티 ERP 프로그램 개발 (worked as an Intern from 2024/10/01 ~ 2024/11/19)</div><br>
 
   
   <br>
-  <div align=center><h1>🖥️Status</h1></div>
+  <div><h1>🖥️Status</h1></div>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Seung-zedd)](https://github.com/ryo-ma/github-profile-trophy)
   ![Seung-zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-zedd&show_icons=true&theme=gruvbox)
   
-  <div align=center><h1>📊Language Statistics</h1></div>
+  <div><h1>📊Language Statistics</h1></div>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-zedd&layout=compact&theme=gruvbox)
 
@@ -85,11 +83,14 @@
   
   !Solved.ac Profile(http://mazassumnida.wtf/api/generate_badge?boj=csj0209)(https://solved.ac/csj0209)
   -->
+  <br>
   
-  <div align=center><h1>🌐Social media</h1></div>
+  <div><h1>🌐Social media</h1></div>
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=csj0209)](https://velog.io/@csj0209)
   <a href="https://www.instagram.com/icarus_mj/">
     <img src="http://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&link=https://www.instagram.com/seung_j.95/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=csj0209)](https://velog.io/@csj0209)
+
