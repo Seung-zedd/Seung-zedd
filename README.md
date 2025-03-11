@@ -18,16 +18,16 @@
 <div><h1>📝Today I Learned</h1></div>
 
 <div>
-  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209" target="_blank">
+  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209" target="_blank" style="text-decoration: none;">
     <img src="https://velog-readme-stats.vercel.app/api?name=csj0209" alt="Velog's GitHub stats" width="48%" />
   </a>
-  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209&tag=programmers" target="_blank">
+  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209&tag=programmers" target="_blank" style="text-decoration: none;">
     <img src="https://velog-readme-stats.vercel.app/api?name=csj0209&tag=programmers" alt="Velog's GitHub stats programmers" width="48%" />
   </a>
 </div>
 
 
-
+<br>
 
   <div><h1>🤖STACKS</h1>
 
