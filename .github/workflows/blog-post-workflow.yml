@@ -17,3 +17,15 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/csj0209"
+      - name: Remove square brackets from blog post titles
+        run: |
+          # README.md 파일에서 모든 [ 와 ] 를 제거합니다.
+          sed -i 's/\[//g; s/\]//g' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'seung-je'
+          git config --global user.email 'csz0209@gmail.com'
+          git add README.md
+          git commit -m "Remove square brackets from blog post titles" || echo "No changes to commit"
+          git push
