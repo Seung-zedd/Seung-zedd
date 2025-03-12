@@ -48,10 +48,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
 
-  **Currently learning/Exploring:**
+  **Currently learning:**
+  OOP with SOLID principle using java 
+
+  <!-- 나중에 배울 것들
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
-  <!-- 도커 아이콘
   <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
   -->
   
