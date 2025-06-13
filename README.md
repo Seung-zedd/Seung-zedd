@@ -85,13 +85,16 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-zedd&layout=compact&theme=gruvbox)
 
-  <!-- 알고리즘 랭킹
-  <div align=center><h1>⚙️PS Ranking</h1></div>
+  <br>
+  <div><h1>⚙️PS Ranking</h1></div>
   
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Seung-zedd?theme=dark&font=Cairo&ext=heatmap)
+
+
+  <!-- 백준 랭킹 
   !Solved.ac Profile(http://mazassumnida.wtf/api/generate_badge?boj=csj0209)(https://solved.ac/csj0209)
   -->
   <br>
-  
   <div><h1>🌐Social media</h1></div>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=csj0209)](https://velog.io/@csj0209)
