@@ -43,7 +43,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
 
   **Currently learning:**
-  Make SpringBoot Board Project using java 
+  Developing a Shopping Mall Project with Spring Boot & JPA
+- Features: Vue.js front-end, Recommendation system with Cosine Similarity
 
   <!-- 나중에 배울 것들
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
