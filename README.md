@@ -59,6 +59,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visualstudiocode&logoColor=white)
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
+
+  **🛠Code Analysis Tools:**
+  <img src="https://img.shields.io/badge/SonarQubeforIDE-126ED3?style=plastic&logo=sonarqubeforide&logoColor=white">
 
   <br>
   <div><h1>👨‍🎓Education</h1></div>
