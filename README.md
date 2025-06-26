@@ -42,6 +42,21 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
 
+  **🛠Tools:**
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visualstudiocode&logoColor=white)
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+  
+
+  **🛠Code Analysis Tools:**
+  <img src="https://img.shields.io/badge/SonarQubeforIDE-126ED3?style=plastic&logo=sonarqubeforide&logoColor=white">
+
+  **📅Project schedule management tools:**
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
+
+  <br><br>
+
   **Currently learning:**
   Developing a Shopping Mall Project with Spring Boot & JPA
 - Features: Vue.js front-end, Recommendation system with Cosine Similarity
@@ -54,15 +69,7 @@
   
   
   
-  **🛠Tools:**
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visualstudiocode&logoColor=white)
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
-
-  **🛠Code Analysis Tools:**
-  <img src="https://img.shields.io/badge/SonarQubeforIDE-126ED3?style=plastic&logo=sonarqubeforide&logoColor=white">
+  
 
   <br>
   <div><h1>👨‍🎓Education</h1></div>
