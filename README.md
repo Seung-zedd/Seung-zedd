@@ -42,6 +42,15 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
 
+  <br>
+
+  **👨‍🔬Tools for experiment:**
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
+  <img src="https://img.shields.io/badge/coderabbit-FF570A?style=plastic&logo=coderabbit&logoColor=white">
+  , Qodana(Intellij static Code Analysis)
+
+  <br>
+
   **🛠Tools:**
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visualstudiocode&logoColor=white)
