@@ -67,7 +67,8 @@
   <br><br>
 
   **Currently learning:**
-  Developing a Shopping Mall Project with Spring Boot & JPA
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-00AEEF?style=plastic&logo=querydsl&logoColor=white)
+  - 🚧Suspended: Developing a Shopping Mall Project with Spring Boot & JPA
 - Features: Vue.js front-end, Recommendation system with Cosine Similarity
 
   <!-- 나중에 배울 것들
