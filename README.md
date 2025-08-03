@@ -64,6 +64,10 @@
   **📅Project schedule management tools:**
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
 
+  **☁️Cloud Computing Service:**
+  AWS, NCP(Naver Cloud Platform)
+  
+
   <br><br>
 
   **Currently learning:**
