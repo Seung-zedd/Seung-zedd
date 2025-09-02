@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-00AEEF?style=plastic&logo=querydsl&logoColor=white)
   
   
   **Once used:**
@@ -71,9 +72,9 @@
   <br><br>
 
   **Currently learning:**
-  ![QueryDSL](https://img.shields.io/badge/QueryDSL-00AEEF?style=plastic&logo=querydsl&logoColor=white)
-  - 🚧Suspended: Developing a Shopping Mall Project with Spring Boot & JPA
-- Features: Vue.js front-end, Recommendation system with Cosine Similarity
+  
+  - Developing a Shopping Mall Project with Spring Boot & JPA
+    - Features: Vue.js front-end, Recommendation system with Cosine Similarity
 
   <!-- 나중에 배울 것들
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
