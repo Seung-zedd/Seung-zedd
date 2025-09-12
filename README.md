@@ -74,7 +74,7 @@
   **Currently learning:**
   
   - Developing a Shopping Mall Project with Spring Boot & JPA
-    - Features: Vue.js front-end, Recommendation system with Cosine Similarity
+    - Features: Svelte.js front-end, Recommendation system with Cosine Similarity
 
   <!-- 나중에 배울 것들
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
@@ -101,6 +101,15 @@
   <div><h1>💼Work Experience</h1></div>
   <div align=left>(주)그노티 ERP 프로그램 개발 (worked as an Intern from 2024/10/01 ~ 2024/11/19)</div><br>
 
+  <br>
+  <div><h1>🎮Activities</h1></div>
+  <div align=left>비사이드 x 네이버 클라우드 해커톤 고도화 트랙 참가: <a href="https://github.com/Seung-zedd/echo-bloom-server">에코블룸 (EchoBloom) - AI 긍정 확언 스피킹 서비스</a> (2025/08/01 ~ 2025/08/20)</div><br>
+  
+  <div align=left>Aim for Impact: 온라인 해커톤 대회에서 2등 수상 (2024.02 ~ 2024.03)</div>
+  
+  - 첫 협업이자 해커톤에 참가한 경험이라 비록 MVP를 만들지는 못했지만, 팀 커뮤니케이션과 소프트웨어를 개발하기 위한 전반적인 과정을 참여했습니다.
+
+  <div align=left>GDSC 홍익 백엔드 스터디 과정 수료 (2023.03 ~ 2023.06)</div><br>
   
   <br>
   <div><h1>🖥️Status</h1></div>
