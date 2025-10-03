@@ -71,8 +71,12 @@
 
   <br><br>
 
-  **Currently learning:**
-  
+  **👨‍💻Currently working:**
+  - ⚡versioning my EchoBloom app for adding features of bookmark and custom sentence
+    
+    <br>
+    
+**🚧Suspended**
   - Developing a Shopping Mall Project with Spring Boot & JPA
     - Features: Svelte.js front-end, Recommendation system with Cosine Similarity
 
