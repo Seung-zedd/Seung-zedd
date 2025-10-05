@@ -46,10 +46,7 @@
   <br>
 
   **👨‍🔬Tools for experiment:**
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
-  <img src="https://img.shields.io/badge/coderabbit-FF570A?style=plastic&logo=coderabbit&logoColor=white">
-  , Qodana(Intellij static Code Analysis)
-
+  
   <br>
 
   **🛠Tools:**
@@ -61,6 +58,7 @@
 
   **🛠Code Analysis Tools:**
   <img src="https://img.shields.io/badge/SonarQubeforIDE-126ED3?style=plastic&logo=sonarqubeforide&logoColor=white">
+  <img src="https://img.shields.io/badge/coderabbit-FF570A?style=plastic&logo=coderabbit&logoColor=white">
 
   **📅Project schedule management tools:**
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
