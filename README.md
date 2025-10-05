@@ -70,7 +70,7 @@
   <br><br>
 
   **👨‍💻Currently working:**
-  - ⚡versioning my EchoBloom app for adding features of bookmark and custom sentence
+  - ⚡versioning my EchoBloom app for adding feature of custom sentence
     
     <br>
     
