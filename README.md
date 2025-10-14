@@ -70,25 +70,16 @@
   <br><br>
 
   **👨‍💻Currently working:**
-  - ⚡versioning my EchoBloom app for adding feature of custom sentence
+  - ⚡versioning my EchoBloom app for fixing BGM issue and making landing_page
     
     <br>
     
-**🚧Suspended**
-  - Developing a Shopping Mall Project with Spring Boot & JPA
-    - Features: Svelte.js front-end, Recommendation system with Cosine Similarity
-
   <!-- 나중에 배울 것들
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
   -->
   
-  
-  
-  
-
-  <br>
   <div><h1>👨‍🎓Education</h1></div>
   <div align=left>Hong-ik University (2022.03 ~ 2024.08)</div><br>
   <div align=left>Hansung University (2016.03 ~ 2021.08)</div>
