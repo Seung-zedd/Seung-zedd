@@ -70,7 +70,7 @@
   <br><br>
 
   **👨‍💻Currently working:**
-  - ⚡versioning my EchoBloom app for fixing BGM issue and making landing_page
+  - ✍️writing my tech portpolio
     
     <br>
     
