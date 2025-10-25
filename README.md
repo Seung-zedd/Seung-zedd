@@ -1,9 +1,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=200&amp;section=header&amp;text=Seung-je's%20Github&amp;fontSize=90" />
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Seung-zedd&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/Seung-zedd"
+  src="https://render.gitanimals.org/farms/Seung-zedd?pet-id=1"
   width="800"
   height="300"
 />
