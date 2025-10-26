@@ -70,7 +70,7 @@
   <br><br>
 
   **👨‍💻Currently working:**
-  - ✍️writing my tech portpolio
+  - ✍️learning JavaScript and writing my tech portpolio
     
     <br>
     
