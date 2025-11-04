@@ -10,6 +10,12 @@
 </a>
 <br>
 
+<div><h1>📁Tech Portfolio</h1></div>
+<a href="https://github.com/user-attachments/files/23327589/_.pdf">문제 해결과 성장을 중심으로.pdf</a>
+
+
+<br>
+
 <div><h1>📝Today I Learned</h1></div>
 
 <div>
@@ -70,7 +76,7 @@
   <br><br>
 
   **👨‍💻Currently working:**
-  - ✍️learning JavaScript and writing my tech portpolio
+  - ✍️learning JavaScript and writing my tech portfolio
     
     <br>
     
