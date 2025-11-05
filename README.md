@@ -11,7 +11,7 @@
 <br>
 
 <div><h1>📁Tech Portfolio</h1></div>
-<a href="https://github.com/user-attachments/files/23327707/_.pdf">문제 해결과 성장을 중심으로.pdf</a>
+<a href="https://github.com/user-attachments/files/23355576/_.pdf">문제 해결과 성장을 중심으로.pdf</a>
 
 <br>
 
