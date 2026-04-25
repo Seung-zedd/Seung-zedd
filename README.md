@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Querydsl-00AEEF?style=plastic&logo=querydsl&logoColor=white">
+  <img src="https://img.shields.io/badge/grafana-F46800?style=plastic&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white">
 
   <br>
 
@@ -72,13 +74,13 @@
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
 
   **☁️Cloud Computing Service:**
-  AWS, NCP(Naver Cloud Platform)
+  AWS, NCP(Naver Cloud Platform), Railway, Vercel
   
 
   <br><br>
 
   **👨‍💻Currently working:**
-  - ✍️learning JavaScript and writing my tech portfolio
+  - ✍️editing my projects portfolio in order to align with applying companies domain
     
     <br>
     
@@ -104,6 +106,7 @@
 
   <br>
   <div><h1>🎮Activities</h1></div>
+  <div align=left>participated Google Gemini 3 Hackthon - <a href="https://github.com/Seung-zedd/lucidify">Lucidify</a>  (2026.01 ~ 2026.02)</div><br>
   <div align=left>비사이드 x 네이버 클라우드 해커톤 고도화 트랙 참가: <a href="https://github.com/Seung-zedd/echo-bloom-server">에코블룸 (EchoBloom) - AI 긍정 확언 스피킹 서비스</a> (2025/08/01 ~ 2025/08/20)</div><br>
   
   <div align=left>Aim for Impact: 온라인 해커톤 대회에서 2등 수상 (2024.02 ~ 2024.03)</div>
