@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Querydsl-00AEEF?style=plastic&logo=querydsl&logoColor=white">
   <img src="https://img.shields.io/badge/grafana-F46800?style=plastic&logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=plastic&logo=k6&logoColor=white">
 
   <br>
 
