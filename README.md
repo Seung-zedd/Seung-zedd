@@ -8,27 +8,10 @@
   height="300"
 />
 </a>
-<br>
-
-<div><h1>📁Tech Portfolio</h1></div>
-<a href="https://github.com/user-attachments/files/23355576/_.pdf">문제 해결과 성장을 중심으로.pdf</a>
 
 <br>
 
-<div><h1>📝Today I Learned</h1></div>
 
-<div>
-  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209" target="_blank" style="text-decoration: none;">
-    <img src="https://velog-readme-stats.vercel.app/api?name=csj0209" alt="Velog's GitHub stats" width="48%" />
-  </a>
-  
-  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=csj0209&tag=LeetCode" target="_blank" style="text-decoration: none;">
-    <img src="https://velog-readme-stats.vercel.app/api?name=csj0209&tag=LeetCode" alt="Velog's GitHub stats programmers" width="48%" />
-  </a>
-</div>
-
-
-<br>
 
   <div><h1>🤖STACKS</h1>
 
@@ -138,10 +121,7 @@
   <br>
   <div><h1>🌐Social media</h1></div>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=csj0209)](https://velog.io/@csj0209)
-  <a href="https://www.instagram.com/icarus_mj/">
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=Instagram&link=https://www.instagram.com/seung_j.95/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+  
+ [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-SeungJe-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/seung-zedd/)
 
 
