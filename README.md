@@ -1,127 +1,49 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=200&amp;section=header&amp;text=Seung-je's%20Github&amp;fontSize=90" />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Seung-zedd&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Seung-zedd?pet-id=1"
-  width="800"
-  height="300"
-/>
-</a>
+# Hi there, I'm Cho Seung-je! 👋
+### AI-Integrated Backend Engineer (Remote-Ready) specializing in Cost & Performance Optimization
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
+## 🚀 About Me
+Results-driven Backend Engineer specializing in scalable architectures, AI API cost optimization, and performance tuning. Proven track record of engineering solutions that reduced LLM token costs by 98% and accelerated database response times from 6,500ms to 70ms. 
 
+A proactive problem-solver who leverages disciplined time-boxing workflows to maintain sustained productivity, thriving in autonomous, asynchronous remote environments.
 
-  <div><h1>🤖STACKS</h1>
+## 🛠️ Technical Skills
+- **Languages & Frameworks:** Java, TypeScript, Spring Boot, Node.js, SvelteKit
+- **Databases:** PostgreSQL, MySQL
+- **Architecture & Cloud:** Serverless (Vercel), Google Cloud Platform (GCP), SSE (Server-Sent Events), Local Disk Spooling, MCP Integration
+- **DevOps & Tools:** Docker, GitHub Actions, k6, Prometheus, Grafana
 
-  **Primarily used:**
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-05A800?style=plastic&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=plastic&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white">
-  
-  
-  **Once used:**
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-8500E5?style=plastic&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=plastic&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Querydsl-00AEEF?style=plastic&logo=querydsl&logoColor=white">
-  <img src="https://img.shields.io/badge/grafana-F46800?style=plastic&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white">
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=plastic&logo=k6&logoColor=white">
+## 📈 Featured Projects
 
-  <br>
+### 🧠 Cubrain *(Private Repository)*
+- Refactored the PDF ingestion pipeline to utilize local disk spooling instead of reading entire files into memory, effectively preventing **OOM (Out of Memory) failures**.
+- Engineered AI API cost-optimization solutions, successfully reducing token expenses by **98%**.
 
-  **👨‍🔬Tools for experiment:**
-  
-  <br>
+### ⚡ [sbb_board](https://github.com/Seung-zedd/sbb_board)
+- Spearheaded performance tuning initiatives to address **critical database bottlenecks**.
+- Implemented semi-join logic to slash list retrieval response latency from **6,500ms to a highly optimized 70ms**.
 
-  **🛠Tools:**
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white">
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visualstudiocode&logoColor=white)
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-  
+### 🔮 [Lucidify](https://github.com/Seung-zedd/lucidify.git) *(Google Gemini 3 Hackathon Submission)*
+- **Architected** an asynchronous AI pipeline using Server-Sent Events (SSE) and safety timers to effectively bypass 60-second serverless timeout constraints.
+- **Implemented** a zero-downtime fallback strategy seamlessly switching between Google Veo and Imagen models to guarantee high availability during API quota limits.
+- **Resolved** complex Google Cloud Platform (GCP) IAM permission conflicts via API key multiplexing and optimized asynchronous stream sequencing.
 
-  **🛠Code Analysis Tools:**
-  <img src="https://img.shields.io/badge/SonarQubeforIDE-126ED3?style=plastic&logo=sonarqubeforide&logoColor=white">
-  <img src="https://img.shields.io/badge/coderabbit-FF570A?style=plastic&logo=coderabbit&logoColor=white">
-
-  **📅Project schedule management tools:**
-  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=plastic&logo=Linear&logoColor=white">
-
-  **☁️Cloud Computing Service:**
-  AWS, NCP(Naver Cloud Platform), Railway, Vercel
-  
-
-  <br><br>
-
-  **👨‍💻Currently working:**
-  - ✍️editing my projects portfolio in order to align with applying companies domain
-    
-    <br>
-    
-  <!-- 나중에 배울 것들
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
-  -->
-  
-  <div><h1>👨‍🎓Education</h1></div>
-  <div align=left>Hong-ik University (2022.03 ~ 2024.08)</div><br>
-  <div align=left>Hansung University (2016.03 ~ 2021.08)</div>
-
-  <br>
-  <div><h1>📜Certificate</h1></div>
-  <div align=left>Engineer Information Processing (achieved at 2024/09/10)</div><br>
-  <div align=left>OPIc IH in English (achieved at 2024/06/19)</div>
-  
-
-  <br>
-  <div><h1>💼Work Experience</h1></div>
-  <div align=left>(주)그노티 ERP 프로그램 개발 (worked as an Intern from 2024/10/01 ~ 2024/11/19)</div><br>
-
-  <br>
-  <div><h1>🎮Activities</h1></div>
-  <div align=left>participated Google Gemini 3 Hackthon - <a href="https://github.com/Seung-zedd/lucidify">Lucidify</a>  (2026.01 ~ 2026.02)</div><br>
-  <div align=left>비사이드 x 네이버 클라우드 해커톤 고도화 트랙 참가: <a href="https://github.com/Seung-zedd/echo-bloom-server">에코블룸 (EchoBloom) - AI 긍정 확언 스피킹 서비스</a> (2025/08/01 ~ 2025/08/20)</div><br>
-  
-  <div align=left>Aim for Impact: 온라인 해커톤 대회에서 2등 수상 (2024.02 ~ 2024.03)</div>
-  
-  - 첫 협업이자 해커톤에 참가한 경험이라 비록 MVP를 만들지는 못했지만, 팀 커뮤니케이션과 소프트웨어를 개발하기 위한 전반적인 과정을 참여했습니다.
-
-  <div align=left>GDSC 홍익 백엔드 스터디 과정 수료 (2023.03 ~ 2023.06)</div><br>
-  
-  <br>
-  <div><h1>🖥️Status</h1></div>
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Seung-zedd)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Seung-zedd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-zedd&show_icons=true&theme=gruvbox)
-  
-  <div><h1>📊Language Statistics</h1></div>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-zedd&layout=compact&theme=gruvbox)
-
-  <br>
-  <div><h1>⚙️PS Ranking</h1></div>
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Seung-zedd?theme=dark&font=Cairo&ext=heatmap)
-
-
-  <!-- 백준 랭킹 
-  !Solved.ac Profile(http://mazassumnida.wtf/api/generate_badge?boj=csj0209)(https://solved.ac/csj0209)
-  -->
-  <br>
-  <div><h1>🌐Social media</h1></div>
-  
-  
- [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-SeungJe-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/seung-zedd/)
+---
+📫 **How to reach me:**
+- **LinkedIn:** [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-SeungJe-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/seung-zedd/)
 
 
