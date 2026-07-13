@@ -17,7 +17,7 @@
 </p>
 
 ## 🚀 About Me
-Results-driven Backend Engineer specializing in scalable architectures, AI API cost optimization, and performance tuning. Proven track record of engineering solutions that reduced LLM token costs by 98% and accelerated database response times from 6,500ms to 70ms. 
+Results-driven Backend Engineer specializing in scalable architectures, AI API cost optimization, and performance tuning. Proven track record of engineering solutions that reduced LLM token costs by 98% and accelerated database response times from 6,506ms to 70ms. 
 
 A proactive problem-solver who leverages disciplined time-boxing workflows to maintain sustained productivity, thriving in autonomous, asynchronous remote environments.
 
