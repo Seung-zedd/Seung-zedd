@@ -29,7 +29,7 @@ A proactive problem-solver who leverages disciplined time-boxing workflows to ma
 
 ## 📈 Featured Projects
 
-### 🧠 Cubrain *(Private Repository)*
+### 🧠 [Cubrain](https://github.com/Seung-zedd/cubrain) 
 - Refactored the PDF ingestion pipeline to utilize local disk spooling instead of reading entire files into memory, effectively preventing **OOM (Out of Memory) failures**.
 - Engineered AI API cost-optimization solutions, successfully reducing token expenses by **98%**.
 
