@@ -29,13 +29,17 @@ root-cause investigation (not guesswork)
 
 ## 📈 Featured Projects
 
-### 🧠 [Cubrain](https://github.com/Seung-zedd/cubrain) 
-- Refactored the PDF ingestion pipeline to utilize local disk spooling instead of reading entire files into memory, effectively preventing **OOM (Out of Memory) failures**.
-- Engineered AI API cost-optimization solutions, successfully reducing token expenses by **98%**.
+### 🧠 [Cubrain](https://github.com/Seung-zedd/cubrain) — AI-powered PDF study SaaS (live service)
+- Cut LLM API costs by **98%** via page-level synthesis batching + exponential backoff retry
+- Eliminated OOM failures (**0% failure rate**) with a local disk-spooling architecture (O(N) → O(1) heap)
+- Designed a 3-tier context pipeline (Micro/Local/Macro) to suppress LLM hallucination
 
-### ⚡ [sbb_board](https://github.com/Seung-zedd/sbb_board)
-- Spearheaded performance tuning initiatives to address **critical database bottlenecks**.
-- Implemented semi-join logic to slash list retrieval response latency from **6,500ms to a highly optimized 70ms**.
+### ⚡ [sbb_board](https://github.com/Seung-zedd/sbb_board) — High-traffic backend performance engineering
+- Resolved a Cartesian-product bottleneck via semi-join + Stream API mapping (**6,506ms → 70ms**, 98.9%)
+- Cut search P95 by 91% via covering + FULLTEXT indexing (**24.04s → 2.18s**), but threshold still failed at 51.58%
+- Hypothesized connection-pool saturation, tested it directly (pool ×1/×2/×4) — **disproved it** by observed data
+- Traced the real cause to an `OR` clause silently disabling the FULLTEXT index; rewrote via UNION + derived-table JOIN
+- Verified via EXPLAIN + 15-case response-hash equality + 8 regression tests, then closed all 3 k6 thresholds (**0.44% error rate**)
 
 ### 🎙️ [EchoBloom](https://github.com/Seung-zedd/EchoBloom) — AI-powered affirmation speaking service (team, 6 members)
 - Cut pronunciation-feedback latency by 99.9% (3,800ms → 2ms) via Korean text normalization + Levenshtein DP
