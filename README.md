@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=200&amp;section=header&amp;text=Seung-je's%20Github&amp;fontSize=90" />
 
 # Hi there, I'm Cho Seung-je! 👋
-### AI-Integrated Backend Engineer (Remote-Ready) specializing in Cost & Performance Optimization
+### Backend Engineer who builds AI systems that actually run in production — not just prototypes
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -17,15 +17,17 @@
 </p>
 
 ## 🚀 About Me
-Results-driven Backend Engineer specializing in scalable architectures, AI API cost optimization, and performance tuning. Proven track record of engineering solutions that reduced LLM token costs by 98% and accelerated database response times from 6,506ms to 70ms. 
-
-A proactive problem-solver who leverages disciplined time-boxing workflows to maintain sustained productivity, thriving in autonomous, asynchronous remote environments.
+Backend engineer focused on turning AI features into systems that survive real traffic — not just working demos.
+Reduced LLM API costs by 98% through batch processing architecture, eliminated OOM failures via disk-spooling design,
+and drove a search API from a 24s P95 under load down to sub-2s while closing out a full k6 threshold suite through
+root-cause investigation (not guesswork)
 
 ## 🛠️ Technical Skills
-- **Languages & Frameworks:** Java, TypeScript, Spring Boot, Node.js, SvelteKit
-- **Databases:** PostgreSQL, MySQL
-- **Architecture & Cloud:** Serverless (Vercel), Google Cloud Platform (GCP), SSE (Server-Sent Events), Local Disk Spooling, MCP Integration
-- **DevOps & Tools:** Docker, GitHub Actions, k6, Prometheus, Grafana
+- **Languages & Frameworks:** Java 21, Spring Boot, Spring Data JPA, QueryDSL
+- **Databases:** MySQL, PostgreSQL, pgvector
+- **AI/Infra:** LangChain4j, Firebase Auth, SSE, Local Disk Spooling
+- **Performance & Observability:** k6, Prometheus, Grafana, Micrometer, HikariCP tuning
+- **DevOps:** Docker, GitHub Actions
 
 ## 📈 Featured Projects
 
@@ -37,10 +39,17 @@ A proactive problem-solver who leverages disciplined time-boxing workflows to ma
 - Spearheaded performance tuning initiatives to address **critical database bottlenecks**.
 - Implemented semi-join logic to slash list retrieval response latency from **6,500ms to a highly optimized 70ms**.
 
-### 🔮 [Lucidify](https://github.com/Seung-zedd/lucidify.git) *(Google Gemini 3 Hackathon Submission)*
-- **Architected** an asynchronous AI pipeline using Server-Sent Events (SSE) and safety timers to effectively bypass 60-second serverless timeout constraints.
-- **Implemented** a zero-downtime fallback strategy seamlessly switching between Google Veo and Imagen models to guarantee high availability during API quota limits.
-- **Resolved** complex Google Cloud Platform (GCP) IAM permission conflicts via API key multiplexing and optimized asynchronous stream sequencing.
+### 🎙️ [EchoBloom](https://github.com/Seung-zedd/EchoBloom) — AI-powered affirmation speaking service (team, 6 members)
+- Cut pronunciation-feedback latency by 99.9% (3,800ms → 2ms) via Korean text normalization + Levenshtein DP
+- Improved scoring accuracy reliability by 15% by filtering out STT misrecognition noise before scoring
+
+---
+
+## 🎮 Activities
+- **Google Gemini 3 Hackathon — [Lucidify](https://github.com/Seung-zedd/lucidify):** Built a multimodal lucid-dreaming
+  interface (Gemini 2.5 Flash, Veo 3.1, Imagen 4.0) end-to-end within the hackathon window — SvelteKit + GCP serverless.
+- **AI 포텐데이 x Naver Cloud Hackathon:** Led backend + AI/STT integration for EchoBloom, shipping a full
+  plan-to-release cycle in 20 days.
 
 ---
 📫 **How to reach me:**
