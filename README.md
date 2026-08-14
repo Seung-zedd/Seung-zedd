@@ -41,7 +41,7 @@ root-cause investigation (not guesswork)
 - Traced the real cause to an `OR` clause silently disabling the FULLTEXT index; rewrote via UNION + derived-table JOIN
 - Verified via EXPLAIN + 15-case response-hash equality + 8 regression tests, then closed all 3 k6 thresholds (**0.44% error rate**)
 
-### 🎙️ [EchoBloom](https://github.com/Seung-zedd/EchoBloom) — AI-powered affirmation speaking service (team, 6 members)
+### 🎙️ [EchoBloom](https://github.com/Seung-zedd/echo-bloom-server) — AI-powered affirmation speaking service (team, 6 members)
 - Cut pronunciation-feedback latency by 99.9% (3,800ms → 2ms) via Korean text normalization + Levenshtein DP
 - Improved scoring accuracy reliability by 15% by filtering out STT misrecognition noise before scoring
 
