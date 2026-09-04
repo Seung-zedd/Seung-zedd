@@ -16,6 +16,7 @@
 
 ## 🚀 About Me
 Backend engineer focused on turning AI features into systems that survive real traffic — not just working demos.
+  - I've also had with hands-on experience across Java/Spring Boot and SvelteKit-based product development.
 
 I care about three things after implementation: **performance, reliability, and operational cost**. I also use AI agents as part of the engineering workflow itself — delegating repeatable implementation and verification work while keeping architecture, security boundaries, and acceptance decisions under explicit human ownership.
 
