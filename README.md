@@ -69,6 +69,18 @@ I care about three things after implementation: **performance, reliability, and 
 
 ---
 
+## 🧪 Experimental Lab
+
+### [DHAA](https://github.com/Seung-zedd/dhaa)
+**Domain, Harness & Agent-Agnostic**
+
+An experimental control plane for agentic software engineering.
+
+Exploring how workflow state, memory, policy, and execution context can
+live above individual agents, harnesses, and providers.
+
+---
+
 ## 🎮 Activities
 - **Google Gemini 3 Hackathon — [Lucidify](https://github.com/Seung-zedd/lucidify):** Built a multimodal lucid-dreaming interface with SvelteKit and GCP serverless tooling within the hackathon window
 - **AI 포텐데이 x Naver Cloud Hackathon:** Implemented STT normalization and Levenshtein-based similarity scoring for EchoBloom, and shared API/service-flow diagrams during a 6-person team project completed within the 20-day hackathon period
