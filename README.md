@@ -87,6 +87,21 @@ live above individual agents, harnesses, and providers.
 
 ---
 
+## 🔬 Research Notebook
+
+### [Self-Improving Agent Systems](https://github.com/Seung-zedd/self-improving-agent-systems)
+**Paper-first notes on self-improving AI agents**
+
+Studying inference-time scaling, verification, evaluation,
+planning, memory, and authority-aware agent architectures.
+
+Research ideas → system design → practical agent architecture.
+
+> More compute improves capability.  
+> It does not automatically grant more authority.
+
+---
+
 ## 🧭 Learning Journey
 
 ### [practice-for-3D-math](https://github.com/Seung-zedd/practice-for-3D-math)
